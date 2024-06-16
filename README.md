@@ -1,1 +1,1 @@
-# KOT_Diffusion
+# Koopman Operator Based Diffusion
